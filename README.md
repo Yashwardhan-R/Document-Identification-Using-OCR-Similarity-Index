@@ -27,7 +27,54 @@ It supports various matching strategies to pinpoint the document identity based 
 ## 🚀 Getting Started
 
 ### 1️⃣ Clone the repo
-```bash
+
 git clone https://github.com/ShaunakGodbole77/Document-Identification-using-OCR-and-Similarity-Index.git
 cd Document-Identification-using-OCR-and-Similarity-Index
+
+
+2️⃣ Install dependencies
+pip install -r requirements.txt
+
+3️⃣ Update configuration (configs.py)
+
+Choose similarity method: JACCARD, TFIDF, BERT, DOC2VEC, USE
+
+Set paths to your document templates and input files
+
+4️⃣ Run the main script
+python Main.py
+
+
+This will process provided sample documents and output identified matches.
+
+📊 Example Usage
+Input Document	Similarity Method	Result
+test_paper_1	TF-IDF	Matched to model_ans.txt
+Handwritten img	USE	High similarity, identified ✔
+
+You can include your own document/test inputs in the test_ files to evaluate with real-world data.
+
+🏆 Results
+
+Accurate identification across multiple test samples
+
+Flexible similarity pipelines to compare effectiveness
+
+Supports both printed and handwritten documents
+
+
+🤝 Contributing
+
+Contributions are welcome!
+Feel free to open an issue or submit a pull request to improve this project.
+
+📜 License
+
+This project is licensed under the GPL-3.0 License
+.
+
+📬 Contact
+
+Yashwardhan Ramchaware
+🔗 GitHub: Yashwardhan-R
 
