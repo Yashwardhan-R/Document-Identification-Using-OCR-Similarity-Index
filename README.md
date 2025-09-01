@@ -28,7 +28,7 @@ It supports various matching strategies to pinpoint the document identity based 
 
 ### 1️⃣ Clone the repo
 
-git clone https://github.com/ShaunakGodbole77/Document-Identification-using-OCR-and-Similarity-Index.git
+git clone https://github.com/Yashwardhan-R/Document-Identification-using-OCR-and-Similarity-Index.git
 cd Document-Identification-using-OCR-and-Similarity-Index
 
 
