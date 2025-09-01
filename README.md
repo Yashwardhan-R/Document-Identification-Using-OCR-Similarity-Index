@@ -29,10 +29,12 @@ It supports various matching strategies to pinpoint the document identity based 
 ### 1️⃣ Clone the repo 
 bash git clone https://github.com/Yashwardhan-R/Document-Identification-using-OCR-and-Similarity-Index.git
 cd Document-Identification-using-OCR-and-Similarity-Index
+
 2️⃣ Install dependencies
 bash
 Copy code
 pip install -r requirements.txt
+
 3️⃣ Update configuration (configs.py)
 Choose similarity method: JACCARD, TFIDF, BERT, DOC2VEC, USE
 
