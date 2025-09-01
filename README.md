@@ -27,7 +27,7 @@ It supports various matching strategies to pinpoint the document identity based 
 ## 🚀 Getting Started
 
 ### 1️⃣ Clone the repo 
-bash git clone https://github.com/ShaunakGodbole77/Document-Identification-using-OCR-and-Similarity-Index.git
+bash git clone https://github.com/Yashwardhan-R/Document-Identification-using-OCR-and-Similarity-Index.git
 cd Document-Identification-using-OCR-and-Similarity-Index
 2️⃣ Install dependencies
 bash
@@ -69,5 +69,5 @@ Feel free to open an issue or submit a pull request to improve this project.
 This project is licensed under the GPL-3.0 License.
 
 📬 Contact
-Shaunak Godbole
-🔗 GitHub: ShaunakGodbole77
+Yashwardhan Ramchaware
+🔗 GitHub: Yashwardhan-R
