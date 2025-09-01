@@ -60,7 +60,6 @@ Flexible similarity pipelines to compare effectiveness
 
 Supports both printed and handwritten documents
 
-Screenshots:
 
 
 🤝 Contributing
